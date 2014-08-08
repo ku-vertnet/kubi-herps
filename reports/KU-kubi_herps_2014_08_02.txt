@@ -1,0 +1,396 @@
+Report for Institution Code KU, Resource kubi_herps
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 299
+Number of records retrieved in searches: 6412
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 6
+	Country: Costa Rica ; Times: 5
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Thailand ; Times: 17
+	Country: United States ; Times: 250
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 23
+	Date: 2014-07-02 ; Times: 41
+	Date: 2014-07-03 ; Times: 25
+	Date: 2014-07-04 ; Times: 5
+	Date: 2014-07-06 ; Times: 7
+	Date: 2014-07-07 ; Times: 4
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-09 ; Times: 4
+	Date: 2014-07-10 ; Times: 4
+	Date: 2014-07-11 ; Times: 44
+	Date: 2014-07-12 ; Times: 49
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 6
+	Date: 2014-07-15 ; Times: 17
+	Date: 2014-07-16 ; Times: 10
+	Date: 2014-07-17 ; Times: 2
+	Date: 2014-07-18 ; Times: 2
+	Date: 2014-07-19 ; Times: 5
+	Date: 2014-07-20 ; Times: 4
+	Date: 2014-07-21 ; Times: 1
+	Date: 2014-07-23 ; Times: 1
+	Date: 2014-07-24 ; Times: 2
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-28 ; Times: 13
+	Date: 2014-07-29 ; Times: 15
+	Date: 2014-07-30 ; Times: 3
+	Date: 2014-07-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "Pseudogekko philippines kuh" ; Times: 1
+	Query: "Ophiophagus hannah tissue:1" ; Times: 1
+	Query: "graptemys versa" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Gekko mindorensis" ; Times: 1
+	Query: "Philautus surdus kuh" ; Times: 1
+	Query: "polypedates mutus tissue:1" ; Times: 1
+	Query: "Gonocephalus sophiae" ; Times: 1
+	Query: "Lacerta bedriagae" ; Times: 1
+	Query: "rhino" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "Boiga dendrophila philippines" ; Times: 1
+	Query: "Pinoyscincus jagori" ; Times: 1
+	Query: "sphenomorphus jagori kuh" ; Times: 1
+	Query: "varanus kuh" ; Times: 1
+	Query: "brachymeles samarensis kuh" ; Times: 1
+	Query: "Brachymeles miriamae" ; Times: 3
+	Query: "Rhacophorus pardalis philippines" ; Times: 1
+	Query: "Gonocephalus philippines" ; Times: 1
+	Query: "Lamprolepis smaragdina philippines kuh" ; Times: 1
+	Query: "kinixys homeana" ; Times: 1
+	Query: "specificepithet:vertebralis genus:Prionodactylus" ; Times: 1
+	Query: "KU 65090" ; Times: 2
+	Query: "Basiliscus tissue:1" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "crotalus transversus reptiles de mexico" ; Times: 1
+	Query: "rana signata" ; Times: 1
+	Query: "Philautus leitensis kuh" ; Times: 1
+	Query: "sanzinia" ; Times: 1
+	Query: "country:"Panama" genus:Sceloporus" ; Times: 2
+	Query: "specificepithet:montisilvestris genus:Diploglossus" ; Times: 1
+	Query: "Ophiophagus tissue:1" ; Times: 2
+	Query: "Philautus leitensis" ; Times: 1
+	Query: "specificepithet:palmeri genus:Echinosaura" ; Times: 1
+	Query: "Kalophrynus pleurostigma kuh" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" genus:Rhadinaea" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "Kaloula picta philippines kuh" ; Times: 1
+	Query: "Corytophanes tissue:1" ; Times: 2
+	Query: "burti arizona" ; Times: 1
+	Query: "country:"Panama" specificepithet:nasutum genus:Porthidium" ; Times: 1
+	Query: "Polypedates mutus tissue:1" ; Times: 1
+	Query: "Podarcis lilfordi" ; Times: 1
+	Query: "catalognumber:89817 institutioncode:Ku" ; Times: 2
+	Query: "specificepithet:panamensis genus:Echinosaura" ; Times: 1
+	Query: "country:"Panama" specificepithet:vertebralis genus:Prionodactylus" ; Times: 1
+	Query: "Limnonectes leytensis kuh" ; Times: 1
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Cyrtodactylus agusanensis" ; Times: 1
+	Query: "Ahaetulla prasina philippines kuh" ; Times: 1
+	Query: "amieti" ; Times: 1
+	Query: "Brachymeles minimus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "Eleutherodactylus jasperi" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "catalognumber:180528 mappable:1" ; Times: 2
+	Query: "Kaloula conjuncta philippines kuh" ; Times: 1
+	Query: "stateprovince:"Cartago" country:"Costa Rica" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:platurus genus:Pelamis" ; Times: 1
+	Query: "specificepithet:ocellata genus:Anadia" ; Times: 1
+	Query: "Terrapene ornata year >= 1960 year <= 1965" ; Times: 2
+	Query: "Brachymeles orientalis kuh" ; Times: 1
+	Query: "Gonocephalus sophiae philippines kuh" ; Times: 1
+	Query: "Sternotherus odoratus stateprovince:"New Jersey"" ; Times: 1
+	Query: "stateprovince:"Portuguesa" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "Psammodynastes pulverulentus kuh" ; Times: 1
+	Query: "Pseudogekko compressicorpus" ; Times: 1
+	Query: "Hyla avivoca" ; Times: 1
+	Query: "New Jersey Kinosternon subrubrum stateprovince:"New Jersey"" ; Times: 1
+	Query: "Sphenomorphus maculatus tissue:1" ; Times: 2
+	Query: "specificepithet:decipiens genus:Urotheca" ; Times: 3
+	Query: "ku 137552" ; Times: 2
+	Query: "ku 137553" ; Times: 2
+	Query: "eleutherodactylus melanostictus" ; Times: 2
+	Query: "lepidoblepharis tissue:1" ; Times: 1
+	Query: "Cyrtodactylus agusanensis kuh" ; Times: 1
+	Query: "stateprovince:"Manabi" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "Ctenosaura pectinata" ; Times: 3
+	Query: "Varanus olivaceus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "Rhacophorus bimaculatus philippines tissue" ; Times: 1
+	Query: "Ahaetulla prasina philippines" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "Bufo borealis" ; Times: 2
+	Query: "Caiman crocodilus" ; Times: 1
+	Query: "stateprovince:"Canal Zone" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "Megophrys stejnegeri philippines" ; Times: 1
+	Query: "Pseudemys rubriventris stateprovince:"New Jersey"" ; Times: 2
+	Query: "Bronchocela marmorata kuh" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: "Brachymeles makusog" ; Times: 1
+	Query: "rana signata philippines kuh" ; Times: 1
+	Query: "Polypedates (Thailand)" ; Times: 2
+	Query: "Cyrtodactylus sumuroi kuh" ; Times: 1
+	Query: "stateprovince:"Limon" country:"Costa Rica" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "genus:Micrurus dumerilii" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Terrapene carolina stateprovince:"New Jersey"" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sibon" ; Times: 1
+	Query: "Chrysemys picta stateprovince:"New Jersey"" ; Times: 1
+	Query: "Angolosaurus skoogi (dry)" ; Times: 1
+	Query: "stateprovince:"San Juan" country:"Puerto Rico"" ; Times: 1
+	Query: "rhinoderma mappable:1" ; Times: 3
+	Query: "rana signata philippines" ; Times: 1
+	Query: "Megophrys stejnegeri philippines kuh" ; Times: 1
+	Query: "stateprovince:"Cauca" country:"Colombia" genus:Lepidoblepharis" ; Times: 1
+	Query: "country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "Boiga dendrophila philippines kuh" ; Times: 1
+	Query: "Polypedates (Thailand) tissue:1" ; Times: 1
+	Query: "rana grandocula kuh" ; Times: 1
+	Query: "pituophis melanoleucus year <= 2014" ; Times: 1
+	Query: "country:"Colombia" genus:Lepidoblepharis" ; Times: 1
+	Query: "country:"Panama" specificepithet:festae genus:Ptychoglossus" ; Times: 1
+	Query: "specificepithet:apodemus genus:Neusticurus" ; Times: 1
+	Query: "Barbourula busuangensis" ; Times: 3
+	Query: "CHRYSES" ; Times: 1
+	Query: "type:specimen genus:Neusticurus" ; Times: 1
+	Query: "Uromastyx (skeleton)" ; Times: 7
+	Query: "Dendrelaphis caudolineatus philippines kuh" ; Times: 1
+	Query: "Angolosaurus skoogi" ; Times: 2
+	Query: "rhinoclemmys pulcherrima Mexico" ; Times: 1
+	Query: "KU 100967" ; Times: 1
+	Query: "brachymeles samarensis" ; Times: 1
+	Query: "country:"Panama" specificepithet:plicatus genus:Ptychoglossus" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 4
+	Query: "stateprovince:"Madre de Dios" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Phyllodactylus tissue:1" ; Times: 2
+	Query: "Rhacophorus appendiculatus philippines" ; Times: 1
+	Query: "catalognumber:91468 institutioncode:Ku" ; Times: 1
+	Query: "KU 137553" ; Times: 2
+	Query: "Acanthodactylus erythrurus (dry)" ; Times: 2
+	Query: "stateprovince:"Choco" country:"Colombia" class:Reptilia" ; Times: 1
+	Query: "eleutherodactylus altae" ; Times: 2
+	Query: "stateprovince:"Veraguas" country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "Dendrelaphis philippines kuh" ; Times: 1
+	Query: "Podarcis lilfordi (dry)" ; Times: 1
+	Query: "chiromantis vittatus tissue:1" ; Times: 2
+	Query: "stateprovince:"Panama" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "Gekko mindorensis kuh" ; Times: 1
+	Query: "Clemmys guttata stateprovince:"New Jersey"" ; Times: 1
+	Query: "Bronchocela cristatella philippines kuh" ; Times: 1
+	Query: "KU 152338" ; Times: 5
+	Query: "specificepithet:rugiceps genus:Leposoma" ; Times: 1
+	Query: "gonocephalus philippines kuh" ; Times: 1
+	Query: "varanus philippines kuh" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:constrictor genus:Boa" ; Times: 1
+	Query: "country:"Peru" genus:Drymobius" ; Times: 3
+	Query: "Varanus olivaceus (dry)" ; Times: 1
+	Query: "stateprovince:"Darien" country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "Gonocephalus sophiae kuh" ; Times: 1
+	Query: "stateprovince:"Choco" country:"Colombia" genus:Anolis" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:nigrocinctus genus:Micrurus" ; Times: 1
+	Query: "country:"Panama" genus:Anadia" ; Times: 1
+	Query: "rana similis kuh" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "Philippines amphibians" ; Times: 1
+	Query: "rhinoderma" ; Times: 3
+	Query: "pinoyscincus jagori kuh" ; Times: 1
+	Query: "Rhacophorus bimaculatus philippines kuh" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Micrurus" ; Times: 1
+	Query: "Ameiva atrata" ; Times: 1
+	Query: "country:"Panama" specificepithet:myersi genus:Ptychoglossus" ; Times: 1
+	Query: "Gonatodes tissue:1" ; Times: 1
+	Query: "Tupinambis rufescens" ; Times: 1
+	Query: "stateprovince:"Bocas" country:"Panama" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "Rana stateprovince:"New Mexico" year >= 1970 year <= 2014" ; Times: 1
+	Query: "epicrates striatus" ; Times: 1
+	Query: "stateprovince:"Bocas del Toro" country:"Panama" genus:Sibon" ; Times: 1
+	Query: "specificepithet:fulviceps genus:Urotheca" ; Times: 2
+	Query: "anura parent" ; Times: 1
+	Query: "porthidium yucatanicum" ; Times: 4
+	Query: "spixii" ; Times: 1
+	Query: "varanus salvator philippines kuh" ; Times: 1
+	Query: "specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Polypedates leucomystax tissue:1" ; Times: 1
+	Query: "KU 106306" ; Times: 2
+	Query: ""uta stansburiana" mappable:1 distance(location,geopoint(37.474858084971046,-120.4541015625))<100000" ; Times: 1
+	Query: "Heterodon stateprovince:"Alabama"" ; Times: 1
+	Query: "Cyclura pinguis (skeleton)" ; Times: 1
+	Query: "Rhacophorus appendiculatus philippines kuh" ; Times: 1
+	Query: "Brachymeles lukbani" ; Times: 1
+	Query: "Rhacophorus pardalis philippines kuh" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:"New Jersey"" ; Times: 1
+	Query: "Oxyrhabdium modestum kuh" ; Times: 1
+	Query: "Gonocephalus philippines kuh" ; Times: 1
+	Query: "institutioncode:KU distance(location,geopoint(-0.03539711011785391,-0.000002682209014892578))<100000" ; Times: 1
+	Query: "Brachymeles cebuensis" ; Times: 1
+	Query: "Rhacophorus bimaculatus philippines" ; Times: 2
+	Query: "ku 148696" ; Times: 2
+	Query: "Lampropeltis mexicana" ; Times: 3
+	Query: "Leiocephalus inaguae" ; Times: 1
+	Query: "Terrapene ornata county:"Benton" year >= 1960 year <= 1965" ; Times: 1
+	Query: "KU 137035" ; Times: 2
+	Query: "Oxyrhabdium modestum philippines" ; Times: 1
+	Query: "Aheatulla prasina philippines kuh" ; Times: 1
+	Query: "eleutherodactylus altae institutioncode:KU" ; Times: 1
+	Query: "Lacerta bedriagae (dry)" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Rhacophorus appendiculatus philippines year >= 1990 year <= 2014" ; Times: 1
+	Query: "Philippines amphibians (KU)" ; Times: 1
+	Query: "country:"Panama" specificepithet:lansbergi genus:Porthidium" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 3
+	Query: "Cyrtodactylus mamanwa" ; Times: 1
+	Query: "Polypedates mutus" ; Times: 1
+	Query: "stateprovince:"Esmeraldas" country:"Ecuador" class:Reptilia" ; Times: 3
+	Query: "mykter" ; Times: 1
+	Query: "country:"Colombia" specificepithet:sanctaemartae genus:Lepidoblepharis" ; Times: 1
+	Query: "stateprovince:"Narino" country:"Colombia" genus:Anolis" ; Times: 1
+	Query: "Philippine amphibians amphibians (tissue)" ; Times: 1
+	Query: "Rhacophorus appendiculatus year >= 1990 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:maurus genus:Epicrates" ; Times: 1
+	Query: "rana magna kuh" ; Times: 1
+	Query: "stateprovince:"Sinaloa" country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "limnonectes macrocephalus kuh" ; Times: 1
+	Query: "specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "country:"Colombia" genus:Sphaerodactylus" ; Times: 1
+	Query: "specificepithet:hylaius genus:Celestus" ; Times: 1
+	Query: "mango" ; Times: 1
+	Query: "country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 3
+	Query: "Cyrtodactylus sumuroi" ; Times: 1
+	Query: "KU 140424" ; Times: 2
+	Query: "KU 140425" ; Times: 1
+	Query: "Occidozyga laevis philippines kuh" ; Times: 1
+	Query: "KU 140420" ; Times: 2
+	Query: "Chelydra serpentina stateprovince:"New Jersey"" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:percarinatum genus:Dendrophidion" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 62 (out of 437 download events in this period)
+Total number of records downloaded: 69089 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 68025
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 13
+	Country: Israel ; Times: 1
+	Country: United States ; Times: 48
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-07 ; Times: 1
+	Date: 2014-07-09 ; Times: 2
+	Date: 2014-07-10 ; Times: 1
+	Date: 2014-07-11 ; Times: 9
+	Date: 2014-07-12 ; Times: 24
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-15 ; Times: 11
+	Date: 2014-07-16 ; Times: 1
+	Date: 2014-07-24 ; Times: 1
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 1
+	Date: 2014-07-29 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pseudogekko philippines" ; Times: 1
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Dendrelaphis philippines" ; Times: 1
+	Query: "varanus salvator philippines" ; Times: 1
+	Query: "trachemys scripta elegans" ; Times: 2
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "Gekko mindorensis" ; Times: 1
+	Query: "Philautus surdus kuh" ; Times: 1
+	Query: "Plethodon shenandoah" ; Times: 2
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Gonocephalus sophiae" ; Times: 1
+	Query: "Lamprolepis smaragdina philippines" ; Times: 1
+	Query: "Kaloula picta philippines" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Rhacophorus bimaculatus philippines" ; Times: 1
+	Query: "brachymeles samarensis" ; Times: 1
+	Query: "Bronchocela cristatella philippines" ; Times: 1
+	Query: "Boiga dendrophila philippines" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Rhacophorus pardalis philippines" ; Times: 1
+	Query: "Gonocephalus philippines" ; Times: 1
+	Query: "Gonocephalus philippines kuh" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Brachymeles orientalis" ; Times: 1
+	Query: "Sphenomorphus variegatus" ; Times: 1
+	Query: "Psammodynastes pulverulentus philippines" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "rana grandocula" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "Occidozyga laevis philippines" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "Ahaetulla prasina philippines" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "Megophrys stejnegeri philippines kuh" ; Times: 1
+	Query: "varanus philippines kuh" ; Times: 1
+	Query: "Philautus leitensis" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "Kaloula conjuncta philippines" ; Times: 1
+	Query: "rhinoderma mappable:1" ; Times: 1
+	Query: "Tallahassee" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "Oxyrhabdium modestum philippines" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "Bronchocela marmorata" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+	Query: "Kalophrynus pleurostigma philippines" ; Times: 1
+	Query: "order:Gymnophiona mappable:1" ; Times: 1
+	Query: "limnonectes leytensis philippines" ; Times: 1
+	Query: "rana magna" ; Times: 1
+	Query: "limnonectes macrocephalus" ; Times: 1
+	Query: "Cyrtodactylus agusanensis" ; Times: 1
+	Query: "rana similis" ; Times: 1
+	Query: "sphenomorphus jagori" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2271
+Total number of records retrieved from searches: 45568
+Number of download events that retrieved data from the resource: 305
+Total number of records downloaded: 598894
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2271
+Total number of records retrieved from searches: 45568
+Number of download events that retrieved data from the resource: 403
+Total number of records downloaded: 1220706
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
