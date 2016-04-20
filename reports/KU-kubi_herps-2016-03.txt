@@ -1,0 +1,300 @@
+Report for Institution Code KU, Resource kubi_herps
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 237
+Number of records retrieved in searches: 4361
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 134
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 35
+	Country: Unknown ; Times: 16
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Puerto Rico ; Times: 8
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 41
+	Date: 2016-03-02 ; Times: 10
+	Date: 2016-03-10 ; Times: 8
+	Date: 2016-03-01 ; Times: 16
+	Date: 2016-03-08 ; Times: 15
+	Date: 2016-03-09 ; Times: 36
+	Date: 2016-03-06 ; Times: 13
+	Date: 2016-03-14 ; Times: 2
+	Date: 2016-03-04 ; Times: 22
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-11 ; Times: 22
+	Date: 2016-03-03 ; Times: 30
+	Date: 2016-03-13 ; Times: 14
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Chioglossa specificepithet:lusitanica" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:185824" ; Times: 1
+	Query: "Villa Tunari Amphibia" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:144815" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:2236" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:55402" ; Times: 2
+	Query: "genus:Lampropeltis catalognumber:144813" ; Times: 1
+	Query: "crotalus clark county nevada" ; Times: 2
+	Query: "locality:Concepcion country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Plectrohyla psiloderma" ; Times: 1
+	Query: "234977" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:174809" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "leiocephalus country:&#34;bahamas&#34; institutioncode:KU" ; Times: 1
+	Query: "Acanacu Amphibia" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "wislizenii washoe county" ; Times: 1
+	Query: "wizard" ; Times: 3
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Pternohyla dentata" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Lincoln&#34; stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Paracti Amphibia" ; Times: 1
+	Query: "coleonyx elegans" ; Times: 2
+	Query: "monterrey distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "order:Caudata class:Amphibia recordedby:Crump" ; Times: 1
+	Query: "Triangulum genus:Lampropeltis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Plethodon larselli" ; Times: 2
+	Query: "genus:Lampropeltis catalognumber:2238" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:2239" ; Times: 1
+	Query: "Paa boulengeri" ; Times: 1
+	Query: "specificepithet:schmidti genus:amphisbaena mappable:1" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:2235" ; Times: 1
+	Query: "catalognumber:212677 collectioncode:KUH" ; Times: 1
+	Query: "Eumeces gilberti county:&#34;San Diego&#34;" ; Times: 1
+	Query: "Ptychohyla euthysanota" ; Times: 3
+	Query: "Stilosoma extenuatum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 2
+	Query: "Plectrohyla dasypus" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:318554" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:207108" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "nyctixalus" ; Times: 1
+	Query: "Oxapampa Amphibia" ; Times: 1
+	Query: "leiocephalus endomychus" ; Times: 1
+	Query: "Plectrohyla quecchi" ; Times: 1
+	Query: "Ctenosaura similis Nicaragua" ; Times: 1
+	Query: "genus:Phyllobates specificepithet:vittatus" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:174620" ; Times: 1
+	Query: "celaque" ; Times: 1
+	Query: "Plectrohyla acanthodes" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:174810" ; Times: 2
+	Query: "leiocephalus country:&#34;turks and caicos&#34; institutioncode:KU" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Sonora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "draco maculatus" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Cauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:velasci" ; Times: 1
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Rana johnsi" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Plectrohyla pokomchi" ; Times: 1
+	Query: "Bufo bankorensis" ; Times: 1
+	Query: "leiocephalus (vinculum) institutioncode:KU" ; Times: 1
+	Query: "Piuntza Ecuador Amphibia" ; Times: 1
+	Query: "crotalus transversus" ; Times: 1
+	Query: "Wacara Amphibia" ; Times: 1
+	Query: "KU 68077" ; Times: 1
+	Query: "gastrotheca cornuta panama" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "Crocodylus moreletii stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Abra de Zamora Ecuador Amphibia" ; Times: 1
+	Query: "Anotheca spinosa" ; Times: 1
+	Query: "Plectrohyla hartwegi" ; Times: 1
+	Query: "Imantodes phantasma" ; Times: 1
+	Query: "Vaupes Amphibia" ; Times: 1
+	Query: "county:&#34;San Martin&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber:289463" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:33951" ; Times: 1
+	Query: "hyla euphorbiacea" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis catalognumber:301019" ; Times: 1
+	Query: "Celestus rozellae" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "29992" ; Times: 2
+	Query: "specificepithet:acutus genus:Crocodylus country:&#34;Panama&#34;" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Azuela Amphibia" ; Times: 2
+	Query: "genus:Lampropeltis catalognumber:140199" ; Times: 1
+	Query: "Salado Ecuador Amphibia" ; Times: 4
+	Query: "xantusia bezyi" ; Times: 3
+	Query: "San Francisco Ecuador Amphibia" ; Times: 1
+	Query: "Santa Rosa Puno Amphibia" ; Times: 1
+	Query: "specificepithet:xera genus:amphisbaena mappable:1" ; Times: 1
+	Query: "claudius angustatus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "raniceps tissue:1" ; Times: 1
+	Query: "ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Calliophis" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:30075" ; Times: 2
+	Query: "KUH 182762" ; Times: 1
+	Query: "Dendrobates stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis catalognumber:301025" ; Times: 1
+	Query: "Gastrophryne elegans stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Plectrohyla Chiapas" ; Times: 3
+	Query: "genus:Lampropeltis catalognumber:23287" ; Times: 1
+	Query: "116352" ; Times: 2
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "genus:Lampropeltis catalognumber:33225" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "psammophis sibilans" ; Times: 2
+	Query: "genus:Osteopilus specificepithet:vastus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "234977 genus:amphisbaena" ; Times: 1
+	Query: "Rana amurensis" ; Times: 1
+	Query: "235105" ; Times: 1
+	Query: "235104" ; Times: 1
+	Query: "catalognumber:104086 institutioncode:KU" ; Times: 2
+	Query: "Coniophanes piceivittis Nicaragua" ; Times: 1
+	Query: "PLECTROHYLA HONDURAS" ; Times: 3
+	Query: "Rhadinaea forbesi stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Tzabcan" ; Times: 2
+	Query: "anolis ortonii" ; Times: 1
+	Query: "genus:Gonatodes stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:Triangulum genus:Lampropeltis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "locality:Calilegua country:&#34;Argentina&#34;" ; Times: 1
+	Query: "KU 87117" ; Times: 1
+	Query: "Oreolalax popei" ; Times: 2
+	Query: "leiocephalus institutioncode:KU" ; Times: 1
+	Query: "Anolis aequatorialis 1" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:2241" ; Times: 1
+	Query: "Eutropis rugifera" ; Times: 1
+	Query: "Macuma Amphibia" ; Times: 1
+	Query: "Zapadores Ecuador Amphibia" ; Times: 1
+	Query: "KU 44567" ; Times: 1
+	Query: "Pardo Miguel Amphibia" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "catalognumber:224738 institutioncode:KU" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Limnonectes bannaensis" ; Times: 1
+	Query: "Phyllobates aurotaenia" ; Times: 4
+	Query: "genus:Lampropeltis catalognumber:30053" ; Times: 1
+	Query: "cienega de flores distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "KU 108426" ; Times: 1
+	Query: "Cryptobranchus" ; Times: 1
+	Query: "Purace Amphibia" ; Times: 1
+	Query: "Plectrohyla glandulosa" ; Times: 2
+	Query: "plethodon glutinosus stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Abra de Zamora Amphibia" ; Times: 1
+	Query: "telmatobius jelskii" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:204843" ; Times: 2
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Rusia Boyaca Amphibia" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "catalognumber:69031 institutioncode:KU" ; Times: 2
+	Query: "Sira Amphibia" ; Times: 6
+	Query: "catalognumber:212676 collectioncode:KUH" ; Times: 1
+	Query: "genus:Crotalus distance(location,geopoint(19.394067895396628,-99.07470703125))&lt;147296" ; Times: 1
+	Query: "genus:Lampropeltis catalognumber:222554" ; Times: 1
+	Query: "genus:Dendrobates stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:Crotalus distance(location,geopoint(26.980828590472104,-101.09619140625))&lt;100000" ; Times: 1
+	Query: "Hyla bistincta" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "catalognumber:193823" ; Times: 1
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 5
+	Query: "specificepithet:bakeri genus:amphisbaena mappable:1" ; Times: 1
+	Query: "KU 140421" ; Times: 2
+	Query: "catalognumber:135065 institutioncode:KU" ; Times: 1
+	Query: "locality:Tafi country:&#34;Argentina&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 80 (out of 230 download events in this period)
+Total number of records downloaded: 1154061
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 54
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 5
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-01 ; Times: 1
+	Date: 2016-03-08 ; Times: 9
+	Date: 2016-03-09 ; Times: 16
+	Date: 2016-03-06 ; Times: 5
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 7
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 6
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Celestus rozellae" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "Papallacta OR Baeza AND Amphibia" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Azuela Amphibia" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Salado Ecuador Amphibia" ; Times: 1
+	Query: "Limoncocha" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "El Pepino Colombia Amphibia" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "specificepithet:xera genus:amphisbaena mappable:1" ; Times: 1
+	Query: "Acanacu Amphibia" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Ambystoma ordinarium mappable:1" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "anolis hastypestatus:1" ; Times: 1
+	Query: "Ptychohyla erythromma" ; Times: 1
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "Rana nigrovittata tissue:1" ; Times: 1
+	Query: "Tamazulapan stateprovince:&#34;Oaxaca&#34; mappable:1" ; Times: 1
+	Query: "Bolitoglossa macrinii mappable:1" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "Abra de Zamora Amphibia" ; Times: 1
+	Query: "Duellman Amphibia Ecuador" ; Times: 1
+	Query: "Bolitoglossa mexicana mappable:1" ; Times: 1
+	Query: "Cynops pyrrhogaster mappable:1" ; Times: 1
+	Query: "specificepithet:granulosa genus:Taricha stateprovince:&#34;washington&#34; year &gt;= 1950" ; Times: 1
+	Query: "Angel Carchi Amphibia" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "Bolitoglossa peruviana mappable:1" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis institutioncode:KU" ; Times: 1
+	Query: "Oxapampa Amphibia" ; Times: 1
+	Query: "Anura institutioncode:KU" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
