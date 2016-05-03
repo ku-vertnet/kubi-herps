@@ -1,0 +1,1064 @@
+Report for Institution Code KU, Resource kubi_herps
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1233
+Number of records retrieved in searches: 18151
+Number of different countries where searches have been originated: 35
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: Canada ; Times: 5
+	Country: Italy ; Times: 1
+	Country: Czech Republic ; Times: 4
+	Country: Unknown ; Times: 392
+	Country: Panama ; Times: 5
+	Country: France ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Argentina ; Times: 38
+	Country: Ecuador ; Times: 3
+	Country: Israel ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Guatemala ; Times: 2
+	Country: Germany ; Times: 8
+	Country: Chile ; Times: 7
+	Country: Puerto Rico ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Thailand ; Times: 14
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 507
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 4
+	Country: Russia ; Times: 51
+	Country: Jamaica ; Times: 1
+	Country: Portugal ; Times: 14
+	Country: Mexico ; Times: 101
+	Country: United Arab Emirates ; Times: 1
+	Country: South Africa ; Times: 7
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 18
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 155
+	Date: 2016-04-28 ; Times: 30
+	Date: 2016-04-07 ; Times: 59
+	Date: 2016-04-06 ; Times: 80
+	Date: 2016-04-05 ; Times: 92
+	Date: 2016-04-04 ; Times: 33
+	Date: 2016-04-21 ; Times: 29
+	Date: 2016-04-20 ; Times: 28
+	Date: 2016-04-09 ; Times: 14
+	Date: 2016-04-22 ; Times: 33
+	Date: 2016-04-25 ; Times: 35
+	Date: 2016-04-24 ; Times: 17
+	Date: 2016-04-27 ; Times: 202
+	Date: 2016-04-26 ; Times: 37
+	Date: 2016-04-08 ; Times: 41
+	Date: 2016-04-18 ; Times: 31
+	Date: 2016-04-19 ; Times: 44
+	Date: 2016-04-14 ; Times: 33
+	Date: 2016-04-15 ; Times: 17
+	Date: 2016-04-16 ; Times: 19
+	Date: 2016-04-17 ; Times: 25
+	Date: 2016-04-10 ; Times: 22
+	Date: 2016-04-11 ; Times: 49
+	Date: 2016-04-12 ; Times: 35
+	Date: 2016-04-13 ; Times: 42
+	Date: 2016-04-03 ; Times: 21
+	Date: 2016-04-02 ; Times: 3
+	Date: 2016-04-23 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "distance(location,geopoint(21.949036,-105.367516))&lt;15000" ; Times: 4
+	Query: "Phyllorhynchus decurtatus baja california sur" ; Times: 1
+	Query: "hemidactylus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Espadarana specificepithet:prosoblepon" ; Times: 1
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "anolis Veraguas Panama" ; Times: 1
+	Query: "ameiva (barbuda) year &gt;= 1989 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:307805 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Elaphe dione" ; Times: 2
+	Query: "Phrynosoma platyrhinos Baja California" ; Times: 1
+	Query: "stegonotus ku" ; Times: 1
+	Query: "Crotalus lepidus chihuahua" ; Times: 1
+	Query: "nototriton" ; Times: 1
+	Query: "genus:Senticolis" ; Times: 1
+	Query: "specificepithet:tigris genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "caudiverbera caudiverbera" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-114.717516))&lt;15000" ; Times: 1
+	Query: "Hemidactylus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "wizard" ; Times: 16
+	Query: "distance(location,geopoint(23.819036,-105.197516))&lt;15000" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 3
+	Query: "Anolis intermedius mappable:1 distance(location,geopoint(12.21118019150401,-84.9462890625))&lt;366345" ; Times: 1
+	Query: "conchas dam" ; Times: 1
+	Query: "19404" ; Times: 1
+	Query: "KU 141762" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 2
+	Query: "family:Ranidae stateprovince:&#34;Zacatecas&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus country:&#34;Panama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Sceloporus nelsoni chihuahua" ; Times: 1
+	Query: "KU 18786" ; Times: 1
+	Query: "Urotheca multilineata" ; Times: 1
+	Query: "Tropidophiidae and cuba" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.237516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.367516))&lt;15000" ; Times: 6
+	Query: "osteocephalus fuscifacies tissue:1" ; Times: 1
+	Query: "Pseudacris brachyphona Virginia" ; Times: 1
+	Query: "osteocephalus verruciger tissue:1" ; Times: 1
+	Query: "Carphophis tissue:1" ; Times: 2
+	Query: "distance(location,geopoint(27.899036,-105.197516))&lt;15000" ; Times: 1
+	Query: "type:specimen genus:iguana tissue:1" ; Times: 1
+	Query: "genus:kinixys tissue:1" ; Times: 6
+	Query: "Nactus (Papua New Guinea OR Indonesia)" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-105.537516))&lt;15000" ; Times: 2
+	Query: "Kinosternon integrum chihuahua" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-108.257516))&lt;15000" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 2
+	Query: "boiga Trigonata" ; Times: 1
+	Query: "specificepithet:odoratus class:reptilia stateprovince:&#34;pennsylvania&#34; mappable:1" ; Times: 1
+	Query: "kinixys" ; Times: 4
+	Query: "Masticophis bilineatus Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Callisaurus draconoides Sinaloa" ; Times: 2
+	Query: "specificepithet:ruschenbergerii genus:Corallus country:&#34;Panama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.707516))&lt;15000" ; Times: 2
+	Query: "melanosuchus niger" ; Times: 1
+	Query: "ptychadena subpunctata" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.537516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-107.237516))&lt;15000" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.887516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.787516))&lt;15000" ; Times: 3
+	Query: "Ptychoglossus myersi" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.147516))&lt;15000" ; Times: 1
+	Query: "dinodon rufozonatum" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Boiga tissue:1" ; Times: 2
+	Query: "Lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.318990192397917,-79.73876953125))&lt;367055.51721340994" ; Times: 1
+	Query: "bolitoglossa celaque" ; Times: 2
+	Query: "stateprovince:&#34;Utah&#34; (triangulum)" ; Times: 1
+	Query: "phrynosoma cornutum stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pipa myersi" ; Times: 2
+	Query: "specificepithet:aeneus genus:desmognathus stateprovince:&#34;alabama&#34; year &gt;= 1960" ; Times: 1
+	Query: "Emoia impar tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.367516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(24.669036,-107.747516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.367516))&lt;15000" ; Times: 5
+	Query: "Chamaeleo senegalensis" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "coluber nebraska" ; Times: 1
+	Query: "elaphe schrenki" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.957516))&lt;15000" ; Times: 1
+	Query: "bothriechis aurifer" ; Times: 8
+	Query: "distance(location,geopoint(24.839036,-107.237516))&lt;15000" ; Times: 1
+	Query: "dendrophidion apharocybe country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-112.167516))&lt;15000" ; Times: 2
+	Query: "Lycodon solivagus" ; Times: 2
+	Query: "Bothriechis bicolor" ; Times: 2
+	Query: "Phrynosoma solare Sinaloa" ; Times: 3
+	Query: "distance(location,geopoint(31.639036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.747516))&lt;15000" ; Times: 1
+	Query: "reptilia stateprovince:&#34;California&#34; (La Grange )" ; Times: 2
+	Query: "lampropeltis triangulum country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Sistrurus ravus" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-110.977516))&lt;15000" ; Times: 1
+	Query: "170562" ; Times: 1
+	Query: "catalognumber:194559 institutioncode:KU" ; Times: 1
+	Query: "126420" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-107.747516))&lt;15000" ; Times: 1
+	Query: "phyllopezus pollicaris" ; Times: 1
+	Query: "21026" ; Times: 1
+	Query: "genus:Ecnomiohyla specificepithet:rabborum" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.217516))&lt;15000" ; Times: 1
+	Query: "discodeles vogti" ; Times: 2
+	Query: "ameiva corax (Anguilla) year &gt;= 1989 year &lt;= 2016" ; Times: 1
+	Query: "Anolis cupreus (Honduras) mappable:1" ; Times: 1
+	Query: "ameiva corax (Anguilla)" ; Times: 1
+	Query: "distance(location,geopoint(28.239036,-108.087516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.289036,-105.027516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.557516))&lt;15000" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-109.957516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.479036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-114.887516))&lt;15000" ; Times: 1
+	Query: "osteocephalus mimeticus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-107.577516))&lt;15000" ; Times: 1
+	Query: "Alsodes barrioi" ; Times: 4
+	Query: "genus:Phyllomedusa specificepithet:tomopterna" ; Times: 1
+	Query: "Claudius angustatus stateprovince:&#34;Veracruz&#34;" ; Times: 2
+	Query: "rana cascadae 1981" ; Times: 3
+	Query: "314970" ; Times: 2
+	Query: "57321" ; Times: 1
+	Query: "pocatello (pipiens rana ) institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-114.717516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-112.847516))&lt;15000" ; Times: 1
+	Query: "kinixys homeana" ; Times: 2
+	Query: "distance(location,geopoint(31.299036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-109.957516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-109.787516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.807516))&lt;15000" ; Times: 1
+	Query: "anotheca" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-108.597516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (cerberus)" ; Times: 1
+	Query: "Anolis microlepidotus" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.677516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-107.917516))&lt;15000" ; Times: 2
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.367516))&lt;15000" ; Times: 2
+	Query: "Aneides aeneus (Alabama OR AL OR alabama OR Al OR al)" ; Times: 1
+	Query: "Scaphiopus holbrookii stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.237516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-110.297516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(28.069036,-110.637516))&lt;15000" ; Times: 1
+	Query: "75377" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-107.407516))&lt;15000" ; Times: 1
+	Query: "ptychadena superciliaris" ; Times: 1
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "mastigodryas dorsalis country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:hochstetteri" ; Times: 25
+	Query: "specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "lacerta saxicola" ; Times: 3
+	Query: "triaspis" ; Times: 1
+	Query: "KU 193677" ; Times: 1
+	Query: "91380" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-109.957516))&lt;15000" ; Times: 1
+	Query: "26214" ; Times: 1
+	Query: "KU 142285" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Crotalus tzabcan" ; Times: 3
+	Query: "distance(location,geopoint(29.599036,-106.727516))&lt;15000" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 2
+	Query: "Anolis cuprinus" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.427516))&lt;15000" ; Times: 1
+	Query: "type:specimen specificepithet:opacum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "pelamis platurus costa rica" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-109.107516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(25.349036,-108.427516))&lt;15000" ; Times: 1
+	Query: "KU 164680" ; Times: 2
+	Query: "rana perezi" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Paratelmatobius" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.027516))&lt;15000" ; Times: 8
+	Query: "blanus" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.387516))&lt;15000" ; Times: 1
+	Query: "nigrovittata country:&#34;Thailand&#34; tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(28.069036,-108.427516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Utah&#34; (charina)" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-108.937516))&lt;15000" ; Times: 1
+	Query: "lanthanotus" ; Times: 1
+	Query: "222388" ; Times: 1
+	Query: "plectrohyla hartwegi" ; Times: 1
+	Query: "genus:Mantella specificepithet:aurantiaca" ; Times: 2
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "catalognumber:104238" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.467516))&lt;15000" ; Times: 1
+	Query: "129686" ; Times: 1
+	Query: "catalognumber:332389 institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:ouachitae genus:plethodon tissue:1" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 3
+	Query: "genus:Senticolis country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(20.419036,-105.197516))&lt;15000" ; Times: 3
+	Query: "distance(location,geopoint(31.469036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Anolis intermedius mappable:1" ; Times: 1
+	Query: "Pipa parva" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-109.107516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.919036,-112.507516))&lt;15000" ; Times: 1
+	Query: "Eleutherodactylus rupinius" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 2
+	Query: "catalognumber:289649 institutioncode:KU tissue:1" ; Times: 1
+	Query: "necturus maculosus michigan" ; Times: 1
+	Query: "ptychadena pumilio" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "distance(location,geopoint(24.839036,-107.747516))&lt;15000" ; Times: 1
+	Query: "thamnophis sirtalis (willits)" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.807516))&lt;15000" ; Times: 1
+	Query: "Sceloporus magister Sinaloa" ; Times: 1
+	Query: "catalognumber:87118 institutioncode:KU" ; Times: 1
+	Query: "218427" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.937516))&lt;15000" ; Times: 1
+	Query: "genus:ceratophrys specificepithet:cranwelli" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Panama&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "acris gryllus alabama" ; Times: 1
+	Query: "crotalus viridis Navajo county" ; Times: 1
+	Query: "genus:Anomaloglossus order:anura class:amphibia" ; Times: 1
+	Query: "Hypopachus barberi institutioncode:KU tissue:1" ; Times: 2
+	Query: "caiman crocodilus" ; Times: 10
+	Query: "crotalus tigris" ; Times: 1
+	Query: "Skiltonianus Nevada county" ; Times: 2
+	Query: "specificepithet:crucifer county:&#34;Winston&#34;" ; Times: 2
+	Query: "Crotalus Apache Arizona" ; Times: 1
+	Query: "catalognumber:289623 institutioncode:KU tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-113.527516))&lt;15000" ; Times: 1
+	Query: "catalognumber:1383 institutioncode:KU" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;38386" ; Times: 1
+	Query: "catalognumber:4109 institutioncode:KU" ; Times: 3
+	Query: "distance(location,geopoint(23.649036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-112.507516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.877516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Anolis cuprinus}" ; Times: 1
+	Query: "Ficimia streckeri" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.047516))&lt;15000" ; Times: 2
+	Query: "eryx tataricus" ; Times: 2
+	Query: "constrictor nebraska" ; Times: 1
+	Query: "distance(location,geopoint(20.589036,-105.197516))&lt;15000" ; Times: 6
+	Query: "14199" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-109.107516))&lt;15000" ; Times: 1
+	Query: "ameiva (lineolata) year &gt;= 1989 year &lt;= 2016" ; Times: 1
+	Query: "Nelsonophryne aequatorialis" ; Times: 2
+	Query: "osteocephalus leprieurii tissue:1" ; Times: 1
+	Query: "Phyllorhynchus decurtatus Sinaloa" ; Times: 3
+	Query: "stegonotus samar" ; Times: 1
+	Query: "KU 141478" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "bothriechis lateralis" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Elaphe schrenki" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:altamirani" ; Times: 1
+	Query: "specificepithet:petraeus genus:plethodon month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "Pseudacris feriarum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-107.407516))&lt;15000" ; Times: 1
+	Query: "plethodon welleri AND (NOT virginia) mappable:1" ; Times: 1
+	Query: "genus:Atractus tissue:1" ; Times: 3
+	Query: "Sauromalus ater Baja California Sur" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(31.469036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-105.877516))&lt;15000" ; Times: 1
+	Query: "Eumeces taeniolatus" ; Times: 4
+	Query: "bothriechis marchi" ; Times: 7
+	Query: "108467" ; Times: 1
+	Query: "type:specimen catalognumber:14199" ; Times: 1
+	Query: "Crotalus pricei chihuahua" ; Times: 2
+	Query: "class:Reptilia county:&#34;York&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-111.997516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.257516))&lt;15000" ; Times: 1
+	Query: "Rhabdophis type:specimen institutioncode:KU" ; Times: 3
+	Query: "osteocephalus tissue:1" ; Times: 2
+	Query: "Thamnophis cyrtopsis Sinaloa" ; Times: 1
+	Query: "osteocephalus buckleyi tissue:1" ; Times: 1
+	Query: "Ophryacus undulatus stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Bolitoglossa specificepithet:altamazonica" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-110.977516))&lt;15000" ; Times: 1
+	Query: "Dipsosaurus dorsalis Sinaloa" ; Times: 1
+	Query: "Sonora semiannulata baja california" ; Times: 1
+	Query: "Acris crepitans stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:petola genus:Oxyrhopus stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 3
+	Query: "genus:Heterodon stateprovince:&#34;Wyoming&#34;" ; Times: 2
+	Query: "184396" ; Times: 1
+	Query: "imantodes gemmistratus" ; Times: 1
+	Query: "Pseudotriton distance(location,geopoint(38.237317252103296,-82.33154296875))&lt;100000" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 1
+	Query: "specificepithet:pinchoni genus:Eleutherodactylus" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-110.977516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-109.787516))&lt;15000" ; Times: 2
+	Query: "catalognumber:186930" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.427516))&lt;15000" ; Times: 1
+	Query: "Vipera ammodytes 1" ; Times: 1
+	Query: "specificepithet:odoratus class:reptilia stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "135680" ; Times: 1
+	Query: "pituophis lineaticollis" ; Times: 2
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "porthidium campeche" ; Times: 2
+	Query: "distance(location,geopoint(25.009036,-110.637516))&lt;15000" ; Times: 1
+	Query: "tantalophis discolor" ; Times: 1
+	Query: "distance(location,geopoint(26.539036,-108.087516))&lt;15000" ; Times: 1
+	Query: "161142" ; Times: 1
+	Query: "ficimia streckeri" ; Times: 4
+	Query: "distance(location,geopoint(23.139036,-106.217516))&lt;15000" ; Times: 1
+	Query: "KU AND San Nicolas Island" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-111.657516))&lt;15000" ; Times: 1
+	Query: "192626" ; Times: 1
+	Query: "Euspondylus rahmi" ; Times: 1
+	Query: "Urotheca guentheri" ; Times: 2
+	Query: "distance(location,geopoint(30.449036,-111.147516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.707516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.047516))&lt;15000" ; Times: 1
+	Query: "158056" ; Times: 1
+	Query: "Eremias multiocellata" ; Times: 11
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "triturus carnifex" ; Times: 1
+	Query: "senticolis triaspis" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Kinixys" ; Times: 2
+	Query: "class:amphibia locality:totontepec" ; Times: 1
+	Query: "crotalus pricei" ; Times: 2
+	Query: "Gambelia wislizenii Baja California" ; Times: 1
+	Query: "odontophrynus occidentalis" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.197516))&lt;15000" ; Times: 6
+	Query: "Phyllorhynchus browni Sinaloa" ; Times: 3
+	Query: "leiopelma" ; Times: 1
+	Query: "Hyla wrightorum type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.779036,-105.197516))&lt;15000" ; Times: 7
+	Query: "55830" ; Times: 1
+	Query: "179835" ; Times: 1
+	Query: "Tantalophis discolor" ; Times: 1
+	Query: "Sachatamia ilex" ; Times: 1
+	Query: "179836" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "cystignathoides" ; Times: 2
+	Query: "specificepithet:palleucus" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-110.297516))&lt;15000" ; Times: 1
+	Query: "163822" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 7
+	Query: "tantilla country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Pituophis melanoleucus Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(26.879036,-111.997516))&lt;15000" ; Times: 1
+	Query: "Crotalus cerastes Baja California" ; Times: 1
+	Query: "catalognumber:63934" ; Times: 1
+	Query: "KU 142352" ; Times: 1
+	Query: "distance(location,geopoint(22.799036,-105.707516))&lt;15000" ; Times: 1
+	Query: "Limnonectes bannaensis" ; Times: 1
+	Query: "specificepithet:opacum genus:Ambystoma stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "KU 141435" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-107.407516))&lt;15000" ; Times: 1
+	Query: "KU 3314" ; Times: 1
+	Query: "Chrysemys picta tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.519036,-108.087516))&lt;15000" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-108.427516))&lt;15000" ; Times: 2
+	Query: "trachemys gaigeae" ; Times: 3
+	Query: "distance(location,geopoint(31.979036,-108.767516))&lt;15000" ; Times: 1
+	Query: "crotaphytus reticulatus" ; Times: 9
+	Query: "Lycodon striatus" ; Times: 1
+	Query: "osteocephalus taurinus tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-109.107516))&lt;15000" ; Times: 2
+	Query: "Crotalus willardi chihuahua" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.80478291957245,-82.8753662109375))&lt;38385.64878672652" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 2
+	Query: "156622" ; Times: 1
+	Query: "catalognumber:10221 institutioncode:KU" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-107.577516))&lt;15000" ; Times: 1
+	Query: "anolis sagrei jamaica" ; Times: 1
+	Query: "KU AND Santa Cruz Island" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.318990192397917,-79.73876953125))&lt;731487" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Michigan&#34;" ; Times: 2
+	Query: "165880" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.537516))&lt;15000" ; Times: 1
+	Query: "coniophanes imperialis" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-106.897516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-106.727516))&lt;15000" ; Times: 1
+	Query: "Gastrophryne carolinensis stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "distance(location,geopoint(24.329036,-107.067516))&lt;15000" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-112.167516))&lt;15000" ; Times: 1
+	Query: "diploglossus pleii" ; Times: 1
+	Query: "24556" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-109.787516))&lt;15000" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 2
+	Query: "distance(location,geopoint(28.239036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.629036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(23.649036,-105.197516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-106.897516))&lt;15000" ; Times: 2
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-106.217516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(30.789036,-110.807516))&lt;15000" ; Times: 1
+	Query: "28423" ; Times: 1
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-105.877516))&lt;15000" ; Times: 2
+	Query: "genus:Ctenosaura stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-110.297516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.559036,-111.827516))&lt;15000" ; Times: 1
+	Query: "catalognumber:64563" ; Times: 1
+	Query: "Anolis intermedius mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;305822.88639677287" ; Times: 1
+	Query: "Lycodon chrysoprateros" ; Times: 2
+	Query: "Pseudacris crucifer stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "Urosaurus ornatus Sinaloa" ; Times: 7
+	Query: "distance(location,geopoint(22.969036,-105.367516))&lt;15000" ; Times: 2
+	Query: "specificepithet:palleucus year &gt;= 1960 year &lt;= 2016" ; Times: 1
+	Query: "ptychadena perreti" ; Times: 1
+	Query: "catalognumber:186903" ; Times: 1
+	Query: "Phrynosoma mcallii Yuma county" ; Times: 1
+	Query: "specificepithet:intermedius genus:crotalus stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34; county:Winston" ; Times: 1
+	Query: "KU 164623" ; Times: 2
+	Query: "emoia caeruleocauda tissue:1" ; Times: 3
+	Query: "plethodon welleri" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Pternohyla fodiens Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-105.877516))&lt;15000" ; Times: 2
+	Query: "KU AND Santa Catalina Island AND California" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 2
+	Query: "bothriechis nigroviridis" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "distance(location,geopoint(30.619036,-114.547516))&lt;15000" ; Times: 1
+	Query: "sphenomorphus cherriei" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.557516))&lt;15000" ; Times: 1
+	Query: "specificepithet:neotenes genus:Eurycea county:&#34;bexar&#34;" ; Times: 1
+	Query: "family:iguanidae stateprovince:&#34;Hawaii&#34;" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-105.367516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.877516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(21.269036,-105.197516))&lt;15000" ; Times: 7
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;469780" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "lisboa" ; Times: 1
+	Query: "Crotalus UNAM" ; Times: 2
+	Query: "distance(location,geopoint(23.309036,-106.217516))&lt;15000" ; Times: 1
+	Query: "sceloporus blair" ; Times: 2
+	Query: "type:specimen specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "Eugongylus albofasciolatus" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-110.807516))&lt;15000" ; Times: 1
+	Query: "175440" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-110.977516))&lt;15000" ; Times: 1
+	Query: "catalognumber:1116 institutioncode:KU" ; Times: 1
+	Query: "order:Anura county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "San Miguel Island AND 1900" ; Times: 1
+	Query: "distance(location,geopoint(26.029036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.619036,-106.557516))&lt;15000" ; Times: 1
+	Query: "67524" ; Times: 3
+	Query: "distance(location,geopoint(25.519036,-110.807516))&lt;15000" ; Times: 1
+	Query: "genus:Pipa specificepithet:snethlageae" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.197516))&lt;15000" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 2
+	Query: "trachemys gaigeae gaigeae" ; Times: 1
+	Query: "Anolis nebulosus chihuahua" ; Times: 1
+	Query: "24268" ; Times: 2
+	Query: "Scaphiopus couchii Sinaloa" ; Times: 1
+	Query: "geckoides" ; Times: 2
+	Query: "genus:Bothrops country:&#34;Colombia&#34;" ; Times: 6
+	Query: "Gymnodactylus geckoides" ; Times: 1
+	Query: "Varanus griseus" ; Times: 2
+	Query: "catalognumber:18100" ; Times: 1
+	Query: "specificepithet:nasicus genus:Heterodon stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "KU 150122" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (lepidus)" ; Times: 1
+	Query: "Alytes cisternasii" ; Times: 2
+	Query: "distance(location,geopoint(30.959036,-110.977516))&lt;15000" ; Times: 1
+	Query: "necturus pennsylvania" ; Times: 1
+	Query: "KU 2130" ; Times: 1
+	Query: "polystictus" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.237516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-111.317516))&lt;15000" ; Times: 1
+	Query: "family:leptotyphlopidae stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "class:Reptilia locality:totontepec" ; Times: 1
+	Query: "Ambystoma rosaceum chihuahua" ; Times: 2
+	Query: "rana tarahumarae" ; Times: 4
+	Query: "distance(location,geopoint(24.329036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Rhinocheilus lecontei Sinaloa" ; Times: 3
+	Query: "genus:Eleutherodactylus specificepithet:leprus" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "bothriechis bicolor" ; Times: 1
+	Query: "Amphiesma institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(28.749036,-112.847516))&lt;15000" ; Times: 1
+	Query: "oxylophus veraguas" ; Times: 1
+	Query: "Sceloporus jarrovii chihuahua" ; Times: 2
+	Query: "	Liophis viridis	 1" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-108.257516))&lt;15000" ; Times: 1
+	Query: "catalognumber:34768 institutioncode:KU" ; Times: 2
+	Query: "distance(location,geopoint(25.689036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Hyla montana" ; Times: 1
+	Query: "genus:Barbourula" ; Times: 2
+	Query: "distance(location,geopoint(31.129036,-110.297516))&lt;15000" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 2
+	Query: "boeleni" ; Times: 2
+	Query: "catalognumber:289530 institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:barlagnei genus:Eleutherodactylus" ; Times: 1
+	Query: "21952" ; Times: 1
+	Query: "Gastrophryne olivacea Sinaloa" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-107.067516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.669036,-106.387516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.449036,-114.717516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-111.147516))&lt;15000" ; Times: 1
+	Query: "specificepithet:crucifer stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "63498" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-105.367516))&lt;15000" ; Times: 1
+	Query: "Pipa carvalhoi" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 3
+	Query: "distance(location,geopoint(23.819036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-108.767516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Bocas del Toro&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "country:&#34;mexico&#34; catalognumber:45023" ; Times: 1
+	Query: "specificepithet:mutica genus:Apalone stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "Aspidoscelis burti Sonora" ; Times: 1
+	Query: "class:amphibia county:&#34;Scott&#34; stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.257516))&lt;15000" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Weld&#34; stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "uperoleia variegata institutioncode:KU" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 4
+	Query: "genus:exiliboa" ; Times: 1
+	Query: "specificepithet:narduccii genus:Leptomicrurus stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Desmognathus monticola stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "type:specimen specificepithet:turcicus genus:Hemidactylus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Brachymeles muntingkamay" ; Times: 1
+	Query: "catalognumber:204420 institutioncode:KU" ; Times: 2
+	Query: "sceloporus undulatus blair" ; Times: 1
+	Query: "specificepithet:simus genus:heterodon" ; Times: 4
+	Query: "KU 214970" ; Times: 1
+	Query: "imantodes lentiferus" ; Times: 1
+	Query: "genus:boiga tissue:1" ; Times: 1
+	Query: "Anolis nebulosus Chihuahua" ; Times: 1
+	Query: "distance(location,geopoint(27.049036,-109.107516))&lt;15000" ; Times: 1
+	Query: "Gambelia wislizenii Baja California Sur" ; Times: 1
+	Query: "trachycephalus tissue:1" ; Times: 2
+	Query: "coleonyx reticulatus" ; Times: 1
+	Query: "distance(location,geopoint(27.389036,-109.617516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-107.577516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-110.807516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.937516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.469036,-113.527516))&lt;15000" ; Times: 1
+	Query: "Lichanura riverside" ; Times: 2
+	Query: "distance(location,geopoint(29.939036,-107.577516))&lt;15000" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 2
+	Query: "porthidium quintana roo" ; Times: 1
+	Query: "spea douglas county" ; Times: 1
+	Query: "Telmatobufo venustus" ; Times: 1
+	Query: "eryx miliaris" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-112.847516))&lt;15000" ; Times: 1
+	Query: "Eleutherodactylus pelorus" ; Times: 1
+	Query: "San Miguel Island AND 1900 NOT Panama" ; Times: 1
+	Query: "genus:Leptotyphlops stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.367516))&lt;15000" ; Times: 5
+	Query: "38882" ; Times: 1
+	Query: "Ambystoma maculatum stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "goudotii" ; Times: 1
+	Query: "KU 115069" ; Times: 1
+	Query: "catalognumber:8292 institutioncode:KU" ; Times: 2
+	Query: "distance(location,geopoint(24.839036,-107.407516))&lt;15000" ; Times: 1
+	Query: "Crotalus horridus year &gt;= 2000 year &lt;= 2016" ; Times: 1
+	Query: "Thamnophis rufipunctatus" ; Times: 2
+	Query: "35651" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-105.197516))&lt;15000" ; Times: 5
+	Query: "distance(location,geopoint(31.299036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Pseudotriton ruber stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "stegonotus ku muelleri" ; Times: 1
+	Query: "Scincidae preparations:skeleton" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-107.237516))&lt;15000" ; Times: 1
+	Query: "genus:Kassina tissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (pyromelana)" ; Times: 4
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.937516))&lt;15000" ; Times: 1
+	Query: "charina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "KU 142322" ; Times: 1
+	Query: "Lakeside class:Reptilia county:&#34;san diego&#34;" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.707516))&lt;15000" ; Times: 1
+	Query: "KU AND San Clemente Island AND California" ; Times: 1
+	Query: "KU 141912" ; Times: 1
+	Query: "distance(location,geopoint(25.179036,-107.407516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Anolis cooki mappable:1" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34; (San Juan OR Playa)" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-113.017516))&lt;15000" ; Times: 1
+	Query: "chioglossa" ; Times: 1
+	Query: "Ambystoma rosaceum" ; Times: 2
+	Query: "distance(location,geopoint(23.819036,-105.537516))&lt;15000" ; Times: 1
+	Query: "paleosuchus palpebrosus" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-106.727516))&lt;15000" ; Times: 1
+	Query: "pyromelana" ; Times: 2
+	Query: "38758" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.727516))&lt;15000" ; Times: 2
+	Query: "hoplobatrachus tigerinus" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.297516))&lt;15000" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis country:&#34;Panama&#34;" ; Times: 1
+	Query: "Crotalus AND Catalina Island" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "smilisca cyanosticta" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-107.747516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.009036,-107.577516))&lt;15000" ; Times: 1
+	Query: "Gastrotheca litonedis" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "Leptotyphlops humilis sinaloa" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "catalognumber:32851 institutioncode:KU" ; Times: 1
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "distance(location,geopoint(24.839036,-110.637516))&lt;15000" ; Times: 1
+	Query: "caiman crocodilus crocodilus" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 10
+	Query: "distance(location,geopoint(24.329036,-110.637516))&lt;15000" ; Times: 1
+	Query: "Rana catesbeiana stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-109.787516))&lt;15000" ; Times: 1
+	Query: "scutiger brevipes" ; Times: 3
+	Query: "Holbrookia lacerata" ; Times: 3
+	Query: "58425" ; Times: 1
+	Query: "catalognumber:10141 institutioncode:KU" ; Times: 1
+	Query: "genus:Pseudacris county:&#34;Winston&#34; stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.897516))&lt;15000" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 2
+	Query: "Phyllobates aurotaenia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "crotalus mitchelli stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-106.557516))&lt;15000" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "lampropeltis mexicana" ; Times: 1
+	Query: "distance(location,geopoint(23.139036,-106.047516))&lt;15000" ; Times: 1
+	Query: "M. McLeod" ; Times: 2
+	Query: "distance(location,geopoint(30.789036,-112.167516))&lt;15000" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo county:&#34;douglas&#34; stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "46748" ; Times: 1
+	Query: "catalognumber:17256 institutioncode:KU" ; Times: 3
+	Query: "distance(location,geopoint(24.499036,-106.557516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-106.897516))&lt;15000" ; Times: 2
+	Query: "258425" ; Times: 2
+	Query: "Aspidoscelis tigris Sinaloa" ; Times: 3
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "xantusia vigilis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "celaque" ; Times: 1
+	Query: "distance(location,geopoint(21.949036,-105.027516))&lt;15000" ; Times: 5
+	Query: "viperidae belize" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-105.707516))&lt;15000" ; Times: 1
+	Query: "catalognumber:25184 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-111.827516))&lt;15000" ; Times: 2
+	Query: "genus:Hyalinobatrachium tissue:1" ; Times: 1
+	Query: "class:Reptilia locality:mixe" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-106.557516))&lt;15000" ; Times: 1
+	Query: "141787 KU" ; Times: 1
+	Query: "draco maculatus tissue:1" ; Times: 1
+	Query: "catalognumber:307815 institutioncode:KU tissue:1" ; Times: 2
+	Query: "Alsodes gargola" ; Times: 1
+	Query: "distance(location,geopoint(30.959036,-105.367516))&lt;15000" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "distance(location,geopoint(21.099036,-105.027516))&lt;15000" ; Times: 5
+	Query: "Bufo kelloggi" ; Times: 1
+	Query: "distance(location,geopoint(31.639036,-108.767516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.159036,-110.467516))&lt;15000" ; Times: 1
+	Query: "Thamnophis melanogaster chihuahua" ; Times: 1
+	Query: "Pseudotriton montanus distance(location,geopoint(38.237317252103296,-82.33154296875))&lt;100000" ; Times: 1
+	Query: "specificepithet:palleucus year &gt;= 1960" ; Times: 1
+	Query: "Podarcis bocagei" ; Times: 1
+	Query: "Coatzacoalcos" ; Times: 2
+	Query: "Timon lepidus" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.217516))&lt;15000" ; Times: 1
+	Query: "57993" ; Times: 1
+	Query: "llama" ; Times: 2
+	Query: "170933" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-106.557516))&lt;15000" ; Times: 1
+	Query: "genus:Pseudacris stateprovince:&#34;Alabama&#34; county:Winston" ; Times: 1
+	Query: "guanaco" ; Times: 5
+	Query: "distance(location,geopoint(31.809036,-107.917516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.597516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.329036,-110.467516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.767516))&lt;15000" ; Times: 2
+	Query: "San Miguel Island AND 1900 NOT Panama NOT Phillippines" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "20587" ; Times: 1
+	Query: "catalognumber:307804 institutioncode:KU tissue:1" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Colon&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "genus:Necturus specificepithet:lewisi" ; Times: 1
+	Query: "uperoleia variegata" ; Times: 1
+	Query: "abronia mixteca" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "specificepithet:ahaetulla genus:Leptophis stateprovince:&#34;Canal Zone&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "distance(location,geopoint(20.759036,-105.367516))&lt;15000" ; Times: 4
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(11.049038346537106,-83.47412109375))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(25.689036,-110.807516))&lt;15000" ; Times: 1
+	Query: "specificepithet:beebei order:anura class:amphibia" ; Times: 1
+	Query: "distance(location,geopoint(22.459036,-105.367516))&lt;15000" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (willardi)" ; Times: 1
+	Query: "genus:Pseudacris stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "specificepithet:cognatus genus:bufo stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 7
+	Query: "Alsodes montanus" ; Times: 1
+	Query: "distance(location,geopoint(23.649036,-110.127516))&lt;15000" ; Times: 2
+	Query: "elaphe emoryi" ; Times: 1
+	Query: "distance(location,geopoint(29.939036,-108.257516))&lt;15000" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(11.049038346537106,-83.47412109375))&lt;367056" ; Times: 1
+	Query: "tantilla wilcoxi" ; Times: 9
+	Query: "gbifdatasetid:dce00a1f-f6b4-4e11-9771-92c62c40ad80" ; Times: 1
+	Query: "KU 141419" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.027516))&lt;15000" ; Times: 1
+	Query: "Gekko rossi" ; Times: 1
+	Query: "specificepithet:annulatum genus:ambystoma" ; Times: 2
+	Query: "Salvadora hexalepis sinaloa" ; Times: 1
+	Query: "Amphiglossus" ; Times: 2
+	Query: "specificepithet:nigrocinctus genus:Micrurus stateprovince:&#34;Cocle&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "genus:leptotyphlops stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "distance(location,geopoint(24.499036,-107.067516))&lt;15000" ; Times: 2
+	Query: "Crotalus viridis Apache Arizona" ; Times: 4
+	Query: "thamnophis sirtalis (Nebraska)" ; Times: 1
+	Query: "87674" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-105.537516))&lt;15000" ; Times: 2
+	Query: "distance(location,geopoint(21.779036,-105.027516))&lt;15000" ; Times: 6
+	Query: "Rana sphenocephala stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "catalognumber:290017 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Phyllodytes" ; Times: 1
+	Query: "38774" ; Times: 1
+	Query: "distance(location,geopoint(22.969036,-106.047516))&lt;15000" ; Times: 2
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "distance(location,geopoint(23.479036,-110.127516))&lt;15000" ; Times: 1
+	Query: "genus:Aneides country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:148685" ; Times: 1
+	Query: "ambystoma maculatum distance(location,geopoint(34.994003757575776,-82.81494140625))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-109.107516))&lt;15000" ; Times: 1
+	Query: "catalognumber:19404" ; Times: 1
+	Query: "clonophis" ; Times: 5
+	Query: "distance(location,geopoint(21.949036,-105.197516))&lt;15000" ; Times: 5
+	Query: "Coleonyx reticulatus" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-106.897516))&lt;15000" ; Times: 2
+	Query: "heterodon simus" ; Times: 1
+	Query: "38875" ; Times: 2
+	Query: "Elaphe taeniura" ; Times: 2
+	Query: "Sphaerotheca breviceps" ; Times: 1
+	Query: "coluber spinalis" ; Times: 1
+	Query: "ameiva tobago" ; Times: 1
+	Query: "distance(location,geopoint(31.979036,-106.727516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-108.257516))&lt;15000" ; Times: 1
+	Query: "sternotherus carinatus" ; Times: 2
+	Query: "Holbrookia maculata Sinaloa" ; Times: 1
+	Query: "specificepithet:braminus genus:Indotyphlops family:Typhlopidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stilosoma" ; Times: 3
+	Query: "distance(location,geopoint(31.469036,-107.577516))&lt;15000" ; Times: 1
+	Query: "specificepithet:Tigrinum stateprovince:&#34;New york&#34;" ; Times: 1
+	Query: "103433" ; Times: 2
+	Query: "KU 3298" ; Times: 1
+	Query: "anolis lionotus" ; Times: 1
+	Query: "distance(location,geopoint(31.809036,-108.087516))&lt;15000" ; Times: 1
+	Query: "gyalopion" ; Times: 1
+	Query: "specificepithet:Intermedius genus:Crotalus stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "catalognumber:335426 institutioncode:KU tissue:1" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "KU 141487" ; Times: 1
+	Query: "Pituophis melanoleucus stateprovince:&#34;south carolina&#34; year &gt;= 1900 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:ruschenbergerii genus:Corallus" ; Times: 1
+	Query: "distance(location,geopoint(23.989036,-105.027516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.609036,-105.027516))&lt;15000" ; Times: 6
+	Query: "distance(location,geopoint(31.299036,-107.067516))&lt;15000" ; Times: 1
+	Query: "Urotheca lateristriga" ; Times: 2
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "distance(location,geopoint(28.239036,-108.257516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.219036,-109.277516))&lt;15000" ; Times: 1
+	Query: "Masticophis flagellum Sinaloa" ; Times: 2
+	Query: "distance(location,geopoint(32.149036,-107.407516))&lt;15000" ; Times: 1
+	Query: "CM 99954" ; Times: 1
+	Query: "elaphe minnesota" ; Times: 1
+	Query: "Stenocercus latebrosus" ; Times: 1
+	Query: "belmira" ; Times: 1
+	Query: "type:specimen genus:Oligodon country:&#34;China&#34;" ; Times: 1
+	Query: "Spea multiplicata chihuahua" ; Times: 1
+	Query: "distance(location,geopoint(31.129036,-112.337516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-111.147516))&lt;15000" ; Times: 1
+	Query: "Coniophanes imperialis" ; Times: 1
+	Query: "distance(location,geopoint(31.299036,-108.427516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.349036,-110.637516))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.859036,-111.317516))&lt;15000" ; Times: 1
+	Query: "KU 3562" ; Times: 1
+	Query: "osteocephalus planiceps tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(30.109036,-114.717516))&lt;15000" ; Times: 1
+	Query: "catalognumber:1985 institutioncode:KU" ; Times: 1
+	Query: "distance(location,geopoint(23.309036,-106.387516))&lt;15000" ; Times: 1
+	Query: "Epictia tenella" ; Times: 1
+	Query: "distance(location,geopoint(22.119036,-105.197516))&lt;15000" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "plethodon welleri north carolina mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 1312 download events in this period)
+Total number of records downloaded: 18691
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 54
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 4
+	Country: South Africa ; Times: 10
+	Country: India ; Times: 2
+	Country: Peru ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Spain ; Times: 7
+	Country: Colombia ; Times: 9
+	Country: United Arab Emirates ; Times: 3
+	Country: New Zealand ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 2
+	Date: 2016-04-28 ; Times: 3
+	Date: 2016-04-07 ; Times: 3
+	Date: 2016-04-06 ; Times: 7
+	Date: 2016-04-05 ; Times: 9
+	Date: 2016-04-04 ; Times: 7
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 10
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-08 ; Times: 8
+	Date: 2016-04-25 ; Times: 9
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 11
+	Date: 2016-04-26 ; Times: 4
+	Date: 2016-04-22 ; Times: 3
+	Date: 2016-04-18 ; Times: 2
+	Date: 2016-04-19 ; Times: 8
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 11
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 2
+	Date: 2016-04-11 ; Times: 7
+	Date: 2016-04-12 ; Times: 6
+	Date: 2016-04-13 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Hoplobatrachus tigerinus" ; Times: 1
+	Query: "Bothrops asper" ; Times: 2
+	Query: "Anolis gundlachi mappable:1" ; Times: 1
+	Query: "nototriton" ; Times: 1
+	Query: "Eleutherodactylus nitidus" ; Times: 1
+	Query: "genus:Physalaemus specificepithet:gracilis" ; Times: 2
+	Query: "hoplobatrachus tigerinus" ; Times: 3
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "agalychnis moreletii" ; Times: 2
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "micrurus browni" ; Times: 1
+	Query: "crotalus tzabcan" ; Times: 5
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "ptychadena perreti" ; Times: 1
+	Query: "cerrophidion godmani" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "barbouri" ; Times: 1
+	Query: "Lygosoma tissue:1" ; Times: 1
+	Query: "Ophisaurus attenuatus" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Anolis limifrons mappable:1" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "Anolis lemurinus mappable:1 distance(location,geopoint(12.039320557540586,-86.396486375))&lt;1279526.3944158978" ; Times: 1
+	Query: "Aneides aeneus Virginia" ; Times: 1
+	Query: "kinixys" ; Times: 1
+	Query: "Podarcis hispanica" ; Times: 1
+	Query: "ptychadena subpunctata" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Nyctimystes fluviatilis" ; Times: 1
+	Query: "Phyllorhynchus decurtatus Sinaloa" ; Times: 1
+	Query: "Alsodes gargola" ; Times: 1
+	Query: "Brachyorrhus" ; Times: 1
+	Query: "Lithobates catesbeianus tissue:1" ; Times: 1
+	Query: "genus:Smilisca specificepithet:baudinii" ; Times: 1
+	Query: "anniella pulchra mappable:1" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "Lampropeltis triangulum (Illinois)" ; Times: 1
+	Query: "ptychadena bibroni" ; Times: 1
+	Query: "thorius" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "Plethodon jordani year &gt;= 1970 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "siren stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "ptychadena mossambica" ; Times: 1
+	Query: "dipsosaurus dorsalis mappable:1" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "R. catesbeiana" ; Times: 1
+	Query: "ptychadena longirostris" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "paleosuchus trigonatus" ; Times: 1
+	Query: "Micrurus elegans" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "Eleutherodactylus rupinius" ; Times: 1
+	Query: "Rana catesbeiana tissue:1" ; Times: 1
+	Query: "Anolis intermedius mappable:1 distance(location,geopoint(9.665738395188692,-82.33154296875))&lt;305822.88639677287" ; Times: 1
+	Query: "Anolis cupreus (Honduras) mappable:1" ; Times: 1
+	Query: "Nactus" ; Times: 1
+	Query: "micrurus elegans" ; Times: 1
+	Query: "ASPIDOSCELIS sonorae" ; Times: 1
+	Query: "genus:Conraua specificepithet:crassipes" ; Times: 1
+	Query: "Carphophis amoenus tissue:1" ; Times: 1
+	Query: "Euspondylus rahmi" ; Times: 1
+	Query: "class:Amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "Alsodes barrioi" ; Times: 1
+	Query: "Anolis cristatellus mappable:1" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "Eleutherodactylus pelorus" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "genus:Aneides country:&#34;Mexico&#34;" ; Times: 2
+	Query: "varanus niloticus" ; Times: 1
+	Query: "Lacerta schreiberi" ; Times: 1
+	Query: "Anolis cupreus (Costa Rica) mappable:1" ; Times: 1
+	Query: "country:&#34;Nicaragua&#34; year &gt;= 1967 year &lt;= 1968 institutioncode:KU" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "ptychadena superciliaris" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "ameiva tobago" ; Times: 1
+	Query: "genus:boiga tissue:1" ; Times: 1
+	Query: "Anolis humilis (Costa Rica) mappable:1" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ptychadena anchietae" ; Times: 2
+	Query: "Crotalus tzabcan" ; Times: 3
+	Query: "Limnonectes bannaensis" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "ptychadena pumilio" ; Times: 1
+	Query: "Telmatobufo venustus" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "Rana cascadae" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "Eleutherodactylus rhodopis" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:mystaceus" ; Times: 1
+	Query: "Ophisaurus compressus" ; Times: 1
+	Query: "stolzmanni" ; Times: 1
+	Query: "Phyllobates country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:Kassina tissue:1" ; Times: 1
+	Query: "Nelsonophryne aequatorialis" ; Times: 1
+	Query: "Dicamptodon ensatus Lake County" ; Times: 1
+	Query: "Lakeside class:Reptilia county:&#34;san diego&#34;" ; Times: 2
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "rana tarahumarae" ; Times: 2
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Anolis cooki mappable:1" ; Times: 1
+
+
+End of report.
