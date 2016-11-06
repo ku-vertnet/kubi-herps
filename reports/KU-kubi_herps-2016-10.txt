@@ -1,0 +1,93 @@
+Report for Institution Code KU, Resource kubi_herps
+Usage stats for October 2016, generated on 2016/11/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 67
+Number of records retrieved in searches: 7957
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 10
+	Country: Colombia ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-10-03 ; Times: 4
+	Date: 2016-10-19 ; Times: 1
+	Date: 2016-10-26 ; Times: 7
+	Date: 2016-10-09 ; Times: 16
+	Date: 2016-10-14 ; Times: 1
+	Date: 2016-10-05 ; Times: 8
+	Date: 2016-10-02 ; Times: 15
+	Date: 2016-10-10 ; Times: 3
+	Date: 2016-10-01 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: " Anolis chocorum 1" ; Times: 2
+	Query: " Anolis lemurinus 1" ; Times: 1
+	Query: " Anolis gracilipes 1" ; Times: 1
+	Query: " specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 4
+	Query: "Scinax staufferi" ; Times: 2
+	Query: "Epicrionops petersi " ; Times: 1
+	Query: " Anolis bitectus 1" ; Times: 1
+	Query: "Smilisca baudinii" ; Times: 2
+	Query: " Anolis intermedius 1" ; Times: 1
+	Query: "Anolis fuscoauratus 1" ; Times: 2
+	Query: " Anolis allisoni 1" ; Times: 1
+	Query: "Chrysemys picta 1" ; Times: 1
+	Query: " Teratohyla spinosa 1" ; Times: 1
+	Query: "Anolis limifrons 1" ; Times: 2
+	Query: " Anolis altae 1" ; Times: 1
+	Query: "wizard" ; Times: 2
+	Query: "Bufo mauritanicus 1" ; Times: 1
+	Query: " Anolis auratus 1" ; Times: 1
+	Query: "Anolis sagrei 1" ; Times: 1
+	Query: " Anolis liogaster 1" ; Times: 1
+	Query: " Anolis limifrons 1" ; Times: 1
+	Query: " Anolis huilae 1" ; Times: 1
+	Query: " Anolis monteverde 1" ; Times: 2
+	Query: "genus:Notophthalmus stateprovince:north carolina" ; Times: 1
+	Query: " Anolis desechensis 1" ; Times: 2
+	Query: "Anolis tropidonotus 1" ; Times: 1
+	Query: " Anolis johnmeyeri 1" ; Times: 1
+	Query: "Parvimolge townsendi" ; Times: 1
+	Query: "Triturus alpestris 1" ; Times: 1
+	Query: "Pseudoeurycea lynchi" ; Times: 1
+	Query: " Anolis fraseri 1" ; Times: 1
+	Query: "Xenopus laevis 1" ; Times: 1
+	Query: " Anolis cusuco 1" ; Times: 1
+	Query: "Leptodactylus fragilis" ; Times: 1
+	Query: " Anolis tropidogaster 1" ; Times: 1
+	Query: " Anolis chloris 1" ; Times: 1
+	Query: " Anolis nebulosus 1" ; Times: 1
+	Query: "specificepithet:grammicus genus:Sceloporus mappable:1" ; Times: 3
+	Query: " Anolis aequatorialis 1" ; Times: 5
+	Query: " Anolis limon 1" ; Times: 1
+	Query: "Anolis humilis 1" ; Times: 1
+	Query: "Anolis carolinensis 1" ; Times: 1
+	Query: "Anolis cristatellus 1" ; Times: 2
+	Query: "Anolis nebulosus 1" ; Times: 1
+	Query: " Norops heteropholidotus 1" ; Times: 1
+	Query: " Anolis taylori 1" ; Times: 1
+	Query: " Anolis fuscoauratus 1" ; Times: 1
+	Query: " Anolis tropidolepis 1" ; Times: 1
+	Query: " Anolis capito 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 203 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
