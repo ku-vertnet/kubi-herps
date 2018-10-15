@@ -1,0 +1,385 @@
+Report for Institution Code KU, Resource kubi_herps
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 280
+Number of records retrieved in searches: 3365
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 47
+	Country: United States ; Times: 140
+	Country: Mexico ; Times: 42
+	Country: Unknown ; Times: 20
+	Country: South Africa ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Guatemala ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Sweden ; Times: 8
+	Country: Dominican Republic ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 60
+	Date: 2017-11-29 ; Times: 90
+	Date: 2017-11-26 ; Times: 33
+	Date: 2017-11-27 ; Times: 49
+	Date: 2017-11-24 ; Times: 10
+	Date: 2017-11-25 ; Times: 15
+	Date: 2017-11-30 ; Times: 23
+
+List of queries that retrieved data from the resource: 
+	Query: "KInosternon sonoriense" ; Times: 2
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 2
+	Query: "Eleutherodactylus crenunguis" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys" ; Times: 1
+	Query: "Anolis chloris ECUADOR" ; Times: 1
+	Query: "Lampropeltis getula jersey" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "catalognumber:47690 institutioncode:KU" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "Eleutherodactylus ranoides" ; Times: 3
+	Query: "Stenocercus festae" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "anolis reconditus" ; Times: 2
+	Query: "genus:pituophis county:&#34;scotland&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "KU 17191" ; Times: 2
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "specificepithet:bomolochos country:&#34;Ecuador&#34; institutioncode:KU hastissue:1" ; Times: 1
+	Query: "Luetkenotyphlus brasiliensis mappable:1" ; Times: 2
+	Query: "Pholidobolus prefrontalis" ; Times: 2
+	Query: "sphaerodactylus falmouth" ; Times: 1
+	Query: "Emydoidea blandingii stateprovince:&#34;Nebraska&#34;" ; Times: 2
+	Query: "micrurus browni" ; Times: 1
+	Query: "KU 220237" ; Times: 1
+	Query: "Adelophryne adiastola" ; Times: 1
+	Query: "bezyi" ; Times: 1
+	Query: "genus:Cruziohyla specificepithet:calcarifer" ; Times: 2
+	Query: "Siphonops paulensis mappable:1" ; Times: 1
+	Query: "KU 19446" ; Times: 1
+	Query: "specificepithet:larselli genus:Plethodon" ; Times: 1
+	Query: "KU 21204" ; Times: 1
+	Query: "Ambystoma jeffersonianum Kentucky" ; Times: 1
+	Query: "sphaerodactylus richardsoni" ; Times: 1
+	Query: "heterodon jersey" ; Times: 2
+	Query: "genus:Scinax specificepithet:hayii" ; Times: 4
+	Query: "phrynosoma modestum zacatecas" ; Times: 1
+	Query: "dermophis oaxacae" ; Times: 1
+	Query: "KU 21192" ; Times: 1
+	Query: "masticophis schotti mexico" ; Times: 1
+	Query: "KU 19473" ; Times: 2
+	Query: "Rhinella icterica mappable:1" ; Times: 1
+	Query: "Ambystoma tigrinum stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Eunectes" ; Times: 2
+	Query: "Proceratophrys boiei mappable:1" ; Times: 2
+	Query: "paramesotriton" ; Times: 2
+	Query: "genus:Vipera year &gt;= 1980 year &lt;= 2017" ; Times: 1
+	Query: "KU 14745" ; Times: 2
+	Query: "Eleutherodactylus parvillus" ; Times: 1
+	Query: "notophthalmus meridionalis" ; Times: 2
+	Query: "Anolis bitectus ECUADOR" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "catalognumber:14671 institutioncode:KU" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40359" ; Times: 2
+	Query: "Dendrophryniscus brevipollicatus mappable:1" ; Times: 2
+	Query: "Chamaeleolis porcus mappable:1" ; Times: 1
+	Query: "Thoropa miliaris mappable:1" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "Eleutherodactylus chalceus" ; Times: 1
+	Query: "micrurus laticollaris" ; Times: 1
+	Query: "kinosternon guatemala" ; Times: 2
+	Query: "Pseudotriton jersey" ; Times: 3
+	Query: "genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "crotalus transversus" ; Times: 1
+	Query: "Aplastodiscus perviridis mappable:1" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hemisus marmoratus KU" ; Times: 1
+	Query: "Atelopus bomolochos" ; Times: 1
+	Query: "Eleutherodactylus eremitus" ; Times: 2
+	Query: "masticophis schotti" ; Times: 1
+	Query: "Odontophrynus cultripes mappable:1" ; Times: 1
+	Query: "Eleutherodactylus verecundus" ; Times: 2
+	Query: "Melanophryniscus moreirae mappable:1" ; Times: 1
+	Query: "Pseudotriton montanus Kentucky" ; Times: 1
+	Query: "cryptobranchus meadville" ; Times: 1
+	Query: "Ceuthomantis smaragdinus" ; Times: 1
+	Query: "anolis quercorum" ; Times: 4
+	Query: "Cycloramphus granulosus mappable:1" ; Times: 1
+	Query: "Aparasphenodon brunoi mappable:1" ; Times: 1
+	Query: "KU 17086" ; Times: 2
+	Query: "Zachaenus parvulus mappable:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:40328" ; Times: 2
+	Query: "genus:Crotalus catalognumber:40329" ; Times: 2
+	Query: "Chiropterotriton magnipes institutioncode:KU" ; Times: 1
+	Query: "genus:python country:&#34;india&#34;" ; Times: 4
+	Query: "dermatemys mawii" ; Times: 5
+	Query: "neusticurus rudis" ; Times: 2
+	Query: "KU 17152" ; Times: 1
+	Query: "sphaerodactylus nassau" ; Times: 3
+	Query: "Sceloporus salvini" ; Times: 2
+	Query: "ambystoma opacum jersey" ; Times: 2
+	Query: "Raorchestes" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys year &gt;= 1950 year &lt;= 2017" ; Times: 1
+	Query: "(marmorata) year &gt;= 1992 month &gt;= 8" ; Times: 1
+	Query: "KU 17013" ; Times: 2
+	Query: "Sphaerodactylus thompsoni" ; Times: 2
+	Query: "specificepithet:eques genus:Thamnophis stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "8098 institutioncode:KU" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "Centrolene heloderma" ; Times: 2
+	Query: "genus:Thecadactylus country:&#34;Panama&#34;" ; Times: 2
+	Query: "ruber stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "genus:Rana specificepithet:amurensis" ; Times: 1
+	Query: "catalognumber:8087 institutioncode:KU" ; Times: 1
+	Query: "Rhinella humboldti" ; Times: 6
+	Query: "getula stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33849" ; Times: 2
+	Query: "specificepithet:cerastes genus:Crotalus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Aristelliger expectatus" ; Times: 3
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "KU 17650" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Holoaden luederwaldti mappable:1" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "Haddadus binotatus mappable:1" ; Times: 2
+	Query: "KU 21228" ; Times: 1
+	Query: "Cycloramphus stejnegeri mappable:1" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33852" ; Times: 2
+	Query: "family:Chamaeleonidae institutioncode:KU" ; Times: 2
+	Query: "196376" ; Times: 1
+	Query: "Anolis aequatorialis ECUADOR" ; Times: 1
+	Query: "KU 19482" ; Times: 1
+	Query: "genus:Dinodon hastissue:1" ; Times: 2
+	Query: "specificepithet:cinerea genus:Hyla stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Brachycephalus ephippium mappable:1" ; Times: 1
+	Query: "KU 19523" ; Times: 1
+	Query: "Chelydra serpentina stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Teratohyla spinosa" ; Times: 1
+	Query: "county:&#34;Henderson&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "genus:Crotalus catalognumber:40360" ; Times: 2
+	Query: "testudines baja california" ; Times: 1
+	Query: "Eleutherodactylus eugeniae" ; Times: 4
+	Query: "Proceratophrys appendiculata mappable:1" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 4
+	Query: "masticophis taeniatus mexico" ; Times: 1
+	Query: "Dendrophryniscus leucomystax mappable:1" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 2
+	Query: "ambystoma annulatum oklahoma" ; Times: 1
+	Query: "anolis leachi" ; Times: 1
+	Query: "Myersiella microps mappable:1" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "Anolis fasciatus ECUADOR" ; Times: 1
+	Query: "KU 21306" ; Times: 1
+	Query: "genus:Leptopelis specificepithet:natalensis" ; Times: 1
+	Query: "crotalus triseriatus" ; Times: 1
+	Query: "Siphonops annulatus mappable:1" ; Times: 2
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34; country:&#34;United States&#34; year &gt;= 1970 year &lt;= 2017" ; Times: 2
+	Query: "Ambystoma lermaense" ; Times: 1
+	Query: "Cycloramphus eleutherodactylus mappable:1" ; Times: 1
+	Query: "Ceratophrys aurita mappable:1" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "sphaerodactylus ocho rios" ; Times: 1
+	Query: "genus:Adelphicos stateprovince:&#34;Veracruz&#34;" ; Times: 6
+	Query: "Anolis fitchi ecuador" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33850" ; Times: 2
+	Query: "&#34;drowning creek&#34; class:amphibia" ; Times: 1
+	Query: "genus:Crotalus catalognumber:33851" ; Times: 2
+	Query: "genus:Elaphe year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Gastrotheca microdiscus mappable:1" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 2
+	Query: "Odontophrynus americanus mappable:1" ; Times: 1
+	Query: "Rhinoclemmys rubida oaxaca" ; Times: 1
+	Query: "Shinisaurus" ; Times: 2
+	Query: "(marmorata 1992)" ; Times: 1
+	Query: "specificepithet:QUADRIVIRGATUS genus:ADELPHICOS stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "catalognumber:8098 institutioncode:KU" ; Times: 1
+	Query: "Eleutherodactylus quinquagesimus" ; Times: 2
+	Query: "KU 17691" ; Times: 1
+	Query: "genus:heterodon county:&#34;bladen&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "geophis semidoliatus" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "Lanthanotus" ; Times: 1
+	Query: "catalognumber:14669 institutioncode:KU" ; Times: 2
+	Query: "Cycloramphus dubius mappable:1" ; Times: 1
+	Query: "genus:Ophisaurus year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "Bufotes" ; Times: 1
+	Query: "class:Amphibia country:&#34;Russia&#34; hastissue:1" ; Times: 2
+	Query: "farancia stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "specificepithet:muhlenbergii genus:glyptemys year &gt;= 1967 year &lt;= 2017" ; Times: 1
+	Query: "Crotalus campbelli" ; Times: 1
+	Query: "Thoropa petropolitana mappable:1" ; Times: 1
+	Query: "ambreensis" ; Times: 1
+	Query: "sphaerodactylus bimini" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 141 (out of 1101 download events in this period)
+Total number of records downloaded: 666069
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Brazil ; Times: 7
+	Country: Russia ; Times: 4
+	Country: Colombia ; Times: 99
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 7
+	Date: 2017-11-29 ; Times: 5
+	Date: 2017-11-26 ; Times: 14
+	Date: 2017-11-27 ; Times: 12
+	Date: 2017-11-25 ; Times: 101
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:midas genus:Teratohyla mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:ceratophrys genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:wrightorum genus:Hyla" ; Times: 1
+	Query: "Eleutherodactylus crenunguis" ; Times: 1
+	Query: "specificepithet:tricolor genus:Epipedobates mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:parkeri genus:Scinax mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:deridens genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:citriogaster genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:ventrimarmoratus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:incomptus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:peruensis genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:juninensis genus:Phrynopus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:nympha genus:Hypsiboas mappable:1 continent:america" ; Times: 1
+	Query: "Afghanistan Amphibia" ; Times: 1
+	Query: "specificepithet:verruciger genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:lirellus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:rabborum genus:Ecnomiohyla mappable:1 continent:america" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "anolis reconditus" ; Times: 1
+	Query: "specificepithet:smaragdinus genus:Ceuthomantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:nanay genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "class:reptilia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "specificepithet:sagrei genus:anolis country:&#34;cuba&#34; mappable:1" ; Times: 1
+	Query: "class:amphibia mappable:0 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "specificepithet:mutabor genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:rugiceps genus:Nyctimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:grandisonae genus:Nymphargus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:spinipollex genus:Ptychohyla mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:angelito genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "specificepithet:resplendens genus:Cochranella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:rabus genus:Synapturanus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:campbelli genus:Incilius mappable:1 continent:america" ; Times: 1
+	Query: "Phrynosoma modestum" ; Times: 1
+	Query: "specificepithet:pluvialis genus:Nymphargus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:festae genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:pulcher genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:pachydermus genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "Eleutherodactylus parvillus" ; Times: 1
+	Query: "specificepithet:imitatrix genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "Bufo viridis" ; Times: 1
+	Query: "specificepithet:carlesvilai genus:Hyalinobatrachium mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:colodactylus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:vellardi genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:halihelos genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "Chamaeleolis porcus mappable:1" ; Times: 1
+	Query: "specificepithet:quaquaversus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "Eleutherodactylus chalceus" ; Times: 1
+	Query: "specificepithet:boylii genus:rana stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:yasuni genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:heloderma genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:alata genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Baja&#34;" ; Times: 1
+	Query: "specificepithet:medemi genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "Eleutherodactylus eremitus" ; Times: 1
+	Query: "specificepithet:schultei genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:peristictum genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "Stenocercus festae" ; Times: 1
+	Query: "Eleutherodactylus verecundus" ; Times: 1
+	Query: "specificepithet:balionota genus:Cochranella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:amabilis genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:toachi genus:Hyloxalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Hyloxalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:longirostris genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:orientale genus:Hyalinobatrachium mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:petrobardus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:distichus genus:anolis mappable:1" ; Times: 1
+	Query: "specificepithet:pipilatum genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "specificepithet:silvanimbus genus:Leptodactylus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:cybotes genus:anolis mappable:1" ; Times: 1
+	Query: "specificepithet:librarius genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:griseigularis genus:Leptodactylus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:muelleri genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:guacamayo genus:Osornophryne mappable:1 continent:america" ; Times: 1
+	Query: "Agalychnis moreletii" ; Times: 1
+	Query: "specificepithet:planiceps genus:Osteocephalus mappable:1 continent:america" ; Times: 1
+	Query: "anolis maynardi" ; Times: 1
+	Query: "specificepithet:talamancae genus:Hyalinobatrachium mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:goinorum genus:Scarthyla mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:barbouri genus:Chamaelinorops mappable:1" ; Times: 1
+	Query: "class:reptilia mappable:1 stateprovince:illinois county:cook year&gt;=1890 year&lt;=2017" ; Times: 1
+	Query: "specificepithet:minuta genus:Amazophrynella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:argyrogaster genus:Colostethus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:didymus genus:Leptodactylus mappable:1 continent:america" ; Times: 1
+	Query: "vntype:specimen family:Rhacophoridae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:variabilis genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:carvalhoi genus:Syncope mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:vittatus genus:Phyllobates mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:ilex genus:Sachatamia mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:pellucidum genus:Hyalinobatrachium mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:espinosai genus:Epipedobates mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:imitator genus:Ranitomeya mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:horribilis genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "KU 220237" ; Times: 1
+	Query: "specificepithet:ballux genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:legleri genus:Ptychohyla mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:siren genus:Nymphargus mappable:1 continent:america" ; Times: 1
+	Query: "anolis quercorum" ; Times: 1
+	Query: "specificepithet:leucophaeus genus:Hyloxalus mappable:1 continent:america" ; Times: 1
+	Query: "Eleutherodactylus eugeniae" ; Times: 1
+	Query: "specificepithet:horstpauli genus:Phrynopus mappable:1 continent:america" ; Times: 1
+	Query: "anolis leachi" ; Times: 1
+	Query: "specificepithet:martiae genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:ardalonychus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "India Amphibia" ; Times: 1
+	Query: "gerrhonotus infernalis" ; Times: 1
+	Query: "specificepithet:bufoniformis genus:Osornophryne mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:lynchi genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:pseudoacuminatus genus:Pristimantis mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:culeus genus:Telmatobius mappable:1 continent:america" ; Times: 1
+	Query: "vntype:specimen order:Anura institutioncode:KU basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:insperatus genus:Allobates mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:johnstonei genus:Eleutherodactylus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:bacatum genus:Centrolene mappable:1 continent:america" ; Times: 1
+	Query: "sceloporus occidentalis" ; Times: 1
+	Query: "specificepithet:sordidatus genus:Hyloxalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:tricolor genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "Hypopachus barberi" ; Times: 1
+	Query: "specificepithet:dapsilis genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:bomolochos genus:Atelopus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:megacheirus genus:Nymphargus mappable:1 continent:america" ; Times: 1
+	Query: "Eleutherodactylus quinquagesimus" ; Times: 1
+	Query: "specificepithet:chirripoi genus:Hyalinobatrachium mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:spiculata genus:Rulyrana mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:anthracinus genus:Hyloxalus mappable:1 continent:america" ; Times: 1
+	Query: "Bufotes" ; Times: 1
+	Query: "specificepithet:petersi genus:Ameerega mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:mache genus:Cochranella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:barberi genus:Hypopachus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:craspedopus genus:Cruziohyla mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:rugosus genus:Craugastor mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:ephippifer genus:Physalaemus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:nexipus genus:Hyloxalus mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:arequipensis genus:Rhinella mappable:1 continent:america" ; Times: 1
+	Query: "specificepithet:scirtetes genus:Centrolene mappable:1 continent:america" ; Times: 1
+
+
+End of report.
